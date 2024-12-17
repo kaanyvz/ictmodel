@@ -1,0 +1,7 @@
+transformers==4.47.0
+torch
+flask
+tensorflow
+datasets
+safetensors
+Pillow
